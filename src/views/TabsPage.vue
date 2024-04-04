@@ -13,7 +13,7 @@
           <ion-label>winner</ion-label>
         </ion-tab-button>
 
-        <ion-tab-button tab="tab3" href="/tabs/tab3">
+        <ion-tab-button tab="add" href="/tabs/add">
           <ion-icon aria-hidden="true" :icon="square" />
           <ion-label>Add</ion-label>
         </ion-tab-button>

@@ -24,8 +24,8 @@ const routes: Array<RouteRecordRaw> = [
         component: () => import('@/views/Winner.vue')
       },
       {
-        path: 'tab3',
-        component: () => import('@/views/Tab3Page.vue')
+        path: 'add',
+        component: () => import('@/views/Add.vue')
       }
     ]
   }
